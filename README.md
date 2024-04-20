@@ -3,4 +3,8 @@ This repository showcases group work completed to address a business problem pre
 The team Zero to Coke Hero is comprised of: Ian Donaldson, Jake Jarrard, Michael Tom, Andrew Walton
 
 # Files Included
-In the repository we showcase our understaning of the buinesses problem, exploritory data analysis (EDA), Our modeling process and our final reccomendations and conclusions found in a pressentation format.
+In the repository we showcase:
+Our understaning of the buinesses problem
+Exploritory data analysis (EDA)
+The modeling process
+Final reccomendations and conclusions, found inpressentation format.
